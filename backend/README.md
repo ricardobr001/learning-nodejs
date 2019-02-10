@@ -2,7 +2,7 @@
 
 `yarn install` install the dependecies from this project
 
-`yarn star` start the server
+`yarn start` start the server
 
 # Endpoint
 
